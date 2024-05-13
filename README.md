@@ -1,5 +1,3 @@
-Got it! Let me update the information accordingly. Here's the revised profile:
-
 ---
 
 # Hi there! 👋
