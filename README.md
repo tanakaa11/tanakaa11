@@ -1,71 +1,89 @@
-Hi there! 👋
+<h1 align="center">Hi, I'm Tanaka 👋</h1>
 
-I'm Tanaka Chiremba, a software developer focused on building scalable, well-designed applications that solve real-world problems. I enjoy working across the stack — from clean, responsive UIs to secure backends and cloud-ready systems.
+<p align="center">
+  Software Developer • Full-Stack • SaaS Builder
+</p>
 
-🔭 Currently Working On
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanaka-chiremba/">LinkedIn</a> •
+  <a href="https://twitter.com/tanakaa11">Twitter/X</a>
+</p>
 
-Building full-stack web applications (React, Node.js, MongoDB)
+---
 
-Developing SaaS-style products with authentication, dashboards, and analytics
+## 🚀 About Me
 
-Designing clean, responsive UIs with strong UX principles
+I’m a software developer focused on building **scalable, well-designed applications** that solve real-world problems.  
+I enjoy working across the stack — from **clean, responsive UIs** to **secure backends** and **cloud-ready systems**.
 
-Exploring mobile and cross-platform development with .NET MAUI
+I care deeply about **structure, performance, and user experience**.
 
-🌱 Currently Learning
+---
 
-Advanced React patterns, state management, and performance optimization
+## 🛠️ Tech Stack
 
-Backend architecture, API security, and scalable system design
+**Frontend**
+- React, JavaScript, HTML, CSS
+- Responsive UI & UX-focused layouts
 
-Cloud deployment, authentication flows, and real-world product engineering
+**Backend**
+- Node.js, REST APIs
+- Authentication & authorization
+- MongoDB
 
-Improving product thinking: turning ideas into usable, polished applications
+**Mobile / Cross-Platform**
+- .NET MAUI
 
-👯 Looking to Collaborate On
+**Other**
+- SaaS architecture
+- Dashboards & admin panels
+- Product-focused development
 
-SaaS products and startup-style applications
+---
 
-Full-stack projects with real users and real problems
+## 🔭 What I’m Working On
 
-Open-source tools, dashboards, or developer utilities
+- Full-stack web applications (React + Node + MongoDB)
+- SaaS-style products with auth, dashboards, and analytics
+- Clean, responsive UI systems with strong UX principles
+- Cross-platform mobile apps using .NET MAUI
 
-Anything that blends good engineering + good design
+---
 
-🤔 Looking for Help With
+## 🌱 Currently Learning
 
-Scaling applications cleanly and securely
+- Advanced React patterns & performance optimization
+- Backend architecture & API security
+- Cloud deployment & production-ready systems
+- Turning ideas into polished, real-world products
 
-Production-level architecture decisions
+---
 
-Improving UI/UX polish and micro-interactions
+## 🤝 Open to Collaborating On
 
-Turning side projects into real products
+- SaaS products & startup-style applications  
+- Full-stack projects with real users  
+- Open-source tools, dashboards, or developer utilities  
+- Anything that blends **engineering + design**
 
-💬 Ask Me About
+---
 
-React, JavaScript, Node.js, MongoDB
+## 💬 Ask Me About
 
-Building dashboards and admin panels
+- React & modern frontend development  
+- Backend APIs & authentication  
+- SaaS MVPs and product architecture  
+- UI/UX decisions for dashboards & apps  
 
-Authentication, APIs, and app structure
+---
 
-UI/UX decisions for modern web apps
+## ⚡ Fun Fact
 
-SaaS MVPs and product ideas
+I enjoy optimizing everything — code, layouts, workflows, and even gym routines.  
+If it can be cleaner or faster, I’ll probably refactor it.
 
-📫 How to Reach Me
+---
 
-LinkedIn: Tanaka Chiremba
-
-Twitter/X: @tanakaa11
-
-Always open to discussions, collaborations, and interesting ideas.
-
-😄 Pronouns
-
-He/Him
-
-⚡ Fun Fact
-
-I enjoy optimizing things — code, layouts, workflows, and even gym routines. If something can be cleaner or more efficient, I’ll probably try to improve it.
+<p align="center">
+  Thanks for stopping by 🚀
+</p>
