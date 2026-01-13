@@ -1,53 +1,71 @@
----
+Hi there! 👋
 
-# Hi there! 👋
+I'm Tanaka Chiremba, a software developer focused on building scalable, well-designed applications that solve real-world problems. I enjoy working across the stack — from clean, responsive UIs to secure backends and cloud-ready systems.
 
-I'm Tanaka Chiremba, a passionate SAP ABAP Developer with a love for creating efficient and effective business solutions.
+🔭 Currently Working On
 
-## 🔭 Currently Working On
+Building full-stack web applications (React, Node.js, MongoDB)
 
-- Enhancing my skills in SAP ABAP development
-- Optimizing code for performance and scalability
-- Solving complex business challenges using SAP technologies
+Developing SaaS-style products with authentication, dashboards, and analytics
 
-## 🌱 Currently Learning
+Designing clean, responsive UIs with strong UX principles
 
-- Exploring advanced ABAP techniques and best practices
-- Diving deeper into SAP HANA and S/4HANA development
-- Improving my problem-solving skills through coding challenges
+Exploring mobile and cross-platform development with .NET MAUI
 
-## 👯 Looking to Collaborate On
+🌱 Currently Learning
 
-- Exciting SAP ABAP projects
-- Open-source initiatives related to SAP technologies
-- Anything related to SAP development and optimization
+Advanced React patterns, state management, and performance optimization
 
-## 🤔 Looking for Help With
+Backend architecture, API security, and scalable system design
 
-- Advanced topics in SAP ABAP development
-- Code optimization and performance tuning in SAP systems
-- Tips for effective project management in SAP projects
+Cloud deployment, authentication flows, and real-world product engineering
 
-## 💬 Ask Me About
+Improving product thinking: turning ideas into usable, polished applications
 
-- SAP ABAP development
-- SAP HANA and S/4HANA development
-- Best practices in SAP system optimization
-- My favorite coding snacks (spoiler: it's a mix of coffee and chocolate!)
+👯 Looking to Collaborate On
 
-## 📫 How to Reach Me
+SaaS products and startup-style applications
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanaka-chiremba/) or [Twitter](https://twitter.com/tanakaa11). I'm always open to interesting discussions and collaborations!
+Full-stack projects with real users and real problems
 
-## 😄 Pronouns
+Open-source tools, dashboards, or developer utilities
+
+Anything that blends good engineering + good design
+
+🤔 Looking for Help With
+
+Scaling applications cleanly and securely
+
+Production-level architecture decisions
+
+Improving UI/UX polish and micro-interactions
+
+Turning side projects into real products
+
+💬 Ask Me About
+
+React, JavaScript, Node.js, MongoDB
+
+Building dashboards and admin panels
+
+Authentication, APIs, and app structure
+
+UI/UX decisions for modern web apps
+
+SaaS MVPs and product ideas
+
+📫 How to Reach Me
+
+LinkedIn: Tanaka Chiremba
+
+Twitter/X: @tanakaa11
+
+Always open to discussions, collaborations, and interesting ideas.
+
+😄 Pronouns
 
 He/Him
 
-## ⚡ Fun Fact
+⚡ Fun Fact
 
-I'm not just a coder—I'm also a music enthusiast. Ask me about my favorite tunes while coding!
-
-Thanks for connecting with me! Let's build some amazing solutions together! 🚀
-
----
-
+I enjoy optimizing things — code, layouts, workflows, and even gym routines. If something can be cleaner or more efficient, I’ll probably try to improve it.
