@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanaka 👋</h1>
 
 <p align="center">
-  Software Developer • Full-Stack • SaaS Builder
+  Software Developer • Full-Stack • Founder of Nodex-Technology
 </p>
 
 <p align="center">
